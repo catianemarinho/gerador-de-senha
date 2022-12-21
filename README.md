@@ -1,1 +1,1 @@
-# gestao-escolar
+# gerador-de-senha
